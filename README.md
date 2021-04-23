@@ -1,4 +1,4 @@
-### Jonathan Cabreira - [Data Scientist] 👋
+### Lucas Marques - [Data Scientist] 👋
 
 ## I am developer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society!
 
