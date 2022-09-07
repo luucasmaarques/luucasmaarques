@@ -6,7 +6,7 @@
 
 ## I am developer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society!
 
-- 💻 I’m currently searching job as a Data Scientist
+- 💻 I’m currently working with a focus on RPA
 - 📈 I’m constantly learning and improving my skills
 
 ### Connect with me:
